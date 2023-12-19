@@ -1,0 +1,18 @@
+{
+  "name": "font-familys",
+  "version": "1.1.7",
+  "description": "font files classicbold, curlly, regularfont, singletitle, thinfont",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aticzz/fonts.git"
+  },
+  "author": "atik solanki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aticzz/fonts/issues"
+  },
+  "homepage": "https://github.com/aticzz/fonts#readme",
+  "dependencies": {
+    "font-familys": "^1.0.0"
+  }
+}

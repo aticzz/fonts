@@ -1,0 +1,84 @@
+@font-face { font-family: "Acme"; src: url("https://designgpt.ai/assets/fonts/classicbold/Acme-Regular.ttf"); }
+@font-face { font-family: "Bebas Neue"; src: url("https://designgpt.ai/assets/fonts/classicbold/BebasNeue-Regular.ttf"); }
+@font-face { font-family: "Barlow Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Barlow-Black.ttf"); }
+@font-face { font-family: "Heebo Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Heebo-Black.ttf"); }
+@font-face { font-family: "Heebo ExtraBold"; src: url("https://designgpt.ai/assets/fonts/classicbold/Heebo-ExtraBold.ttf"); }
+@font-face { font-family: "Abril Fatface"; src: url("https://designgpt.ai/assets/fonts/classicbold/AbrilFatface-Regular.ttf"); }
+@font-face { font-family: "Lato Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Lato-Black.ttf"); }
+@font-face { font-family: "Fjalla One"; src: url("https://designgpt.ai/assets/fonts/classicbold/FjallaOne-Regular.ttf"); }
+@font-face { font-family: "Gabarito"; src: url("https://designgpt.ai/assets/fonts/classicbold/Gabarito-Bold.ttf"); }
+@font-face { font-family: "Lato"; src: url("https://designgpt.ai/assets/fonts/classicbold/Lato-Bold.ttf"); }
+@font-face { font-family: "Anton"; src: url("https://designgpt.ai/assets/fonts/classicbold/Anton-Regular.ttf"); }
+@font-face { font-family: "Barlow"; src: url("https://designgpt.ai/assets/fonts/classicbold/Barlow-Bold.ttf"); }
+@font-face { font-family: "Dosis ExtraBold"; src: url("https://designgpt.ai/assets/fonts/classicbold/Dosis-ExtraBold.ttf"); }
+@font-face { font-family: "Open Sans Condensed ExtraBold"; src: url("https://designgpt.ai/assets/fonts/classicbold/OpenSans_Condensed-ExtraBold.ttf"); }
+@font-face { font-family: "Oswald"; src: url("https://designgpt.ai/assets/fonts/classicbold/Oswald-Bold.ttf"); }
+@font-face { font-family: "Marchell"; src: url("https://designgpt.ai/assets/fonts/curlly/Marchell.ttf"); }
+@font-face { font-family: "Midnight Bangkok"; src: url("https://designgpt.ai/assets/fonts/curlly/Midnight Bangkok.ttf"); }
+@font-face { font-family: "Quindelia"; src: url("https://designgpt.ai/assets/fonts/curlly/Quindelia.ttf"); }
+@font-face { font-family: "Akod FREE"; src: url("https://designgpt.ai/assets/fonts/curlly/Akod FREE.ttf"); }
+@font-face { font-family: "Kanit Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Kanit-Black.ttf"); }
+@font-face { font-family: "Kanit"; src: url("https://designgpt.ai/assets/fonts/classicbold/Kanit-Bold.ttf"); }
+@font-face { font-family: "Tangerine"; src: url("https://designgpt.ai/assets/fonts/curlly/Tangerine_Regular.ttf"); }
+@font-face { font-family: "Heebo"; src: url("https://designgpt.ai/assets/fonts/regularfont/Heebo-Regular.ttf"); }
+@font-face { font-family: "Nunito Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Nunito-Black.ttf"); }
+@font-face { font-family: "Nunito"; src: url("https://designgpt.ai/assets/fonts/classicbold/Nunito-Bold.ttf"); }
+@font-face { font-family: "Roboto Slab Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/RobotoSlab-Black.ttf"); }
+@font-face { font-family: "Abril Fatface"; src: url("https://designgpt.ai/assets/fonts/singletitle/AbrilFatface-Regular.ttf"); }
+@font-face { font-family: "Acme"; src: url("https://designgpt.ai/assets/fonts/singletitle/Acme-Regular.ttf"); }
+@font-face { font-family: "Bebas Neue"; src: url("https://designgpt.ai/assets/fonts/singletitle/BebasNeue-Regular.ttf"); }
+@font-face { font-family: "Roboto Slab ExtraBold"; src: url("https://designgpt.ai/assets/fonts/classicbold/RobotoSlab-ExtraBold.ttf"); }
+@font-face { font-family: "PT Serif"; src: url("https://designgpt.ai/assets/fonts/classicbold/PTSerif-Bold.ttf"); }
+@font-face { font-family: "Secular One"; src: url("https://designgpt.ai/assets/fonts/classicbold/SecularOne-Regular.ttf"); }
+@font-face { font-family: "ChocolateBox"; src: url("https://designgpt.ai/assets/fonts/singletitle/C_BOX.TTF"); }
+@font-face { font-family: "Young Serif"; src: url("https://designgpt.ai/assets/fonts/classicbold/YoungSerif-Regular.ttf"); }
+@font-face { font-family: "Quiska"; src: url("https://designgpt.ai/assets/fonts/singletitle/Quiska.ttf"); }
+@font-face { font-family: "King Lionel - Personal Use"; src: url("https://designgpt.ai/assets/fonts/curlly/King Lionel - Personal Use.ttf"); }
+@font-face { font-family: "Lovely Quotes"; src: url("https://designgpt.ai/assets/fonts/curlly/Lovely Quotes.ttf"); }
+@font-face { font-family: "Mirella Script Limited Free Version.vfb"; src: url("https://designgpt.ai/assets/fonts/curlly/Mirella Script Limited Free Version.ttf"); }
+@font-face { font-family: "Montserrat Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Montserrat-Black.ttf"); }
+@font-face { font-family: "Barlow"; src: url("https://designgpt.ai/assets/fonts/regularfont/Barlow-Regular.ttf"); }
+@font-face { font-family: "Montserrat"; src: url("https://designgpt.ai/assets/fonts/classicbold/Montserrat-Bold.ttf"); }
+@font-face { font-family: "Playfair Display Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/PlayfairDisplay-Black.ttf"); }
+@font-face { font-family: "Playfair Display"; src: url("https://designgpt.ai/assets/fonts/classicbold/PlayfairDisplay-Bold.ttf"); }
+@font-face { font-family: "Poppins Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Poppins-Black.ttf"); }
+@font-face { font-family: "Lato"; src: url("https://designgpt.ai/assets/fonts/regularfont/Lato-Regular.ttf"); }
+@font-face { font-family: "Poppins"; src: url("https://designgpt.ai/assets/fonts/classicbold/Poppins-Bold.ttf"); }
+@font-face { font-family: "Roboto Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/Roboto-Black.ttf"); }
+@font-face { font-family: "Roboto"; src: url("https://designgpt.ai/assets/fonts/classicbold/Roboto-Bold.ttf"); }
+@font-face { font-family: "Dosis ExtraBold"; src: url("https://designgpt.ai/assets/fonts/singletitle/Dosis-ExtraBold.ttf"); }
+@font-face { font-family: "Teko"; src: url("https://designgpt.ai/assets/fonts/classicbold/Teko-Bold.ttf"); }
+@font-face { font-family: "Gabarito"; src: url("https://designgpt.ai/assets/fonts/singletitle/Gabarito-Bold.ttf"); }
+@font-face { font-family: "Roboto Slab Black"; src: url("https://designgpt.ai/assets/fonts/singletitle/RobotoSlab-Black.ttf"); }
+@font-face { font-family: "Roboto Slab ExtraBold"; src: url("https://designgpt.ai/assets/fonts/singletitle/RobotoSlab-ExtraBold.ttf"); }
+@font-face { font-family: "Secular One"; src: url("https://designgpt.ai/assets/fonts/singletitle/SecularOne-Regular.ttf"); }
+@font-face { font-family: "Young Serif"; src: url("https://designgpt.ai/assets/fonts/singletitle/YoungSerif-Regular.ttf"); }
+@font-face { font-family: "Hind"; src: url("https://designgpt.ai/assets/fonts/classicbold/Hind-Bold.ttf"); }
+@font-face { font-family: "Santa Rose"; src: url("https://designgpt.ai/assets/fonts/curlly/Santa Rose.ttf"); }
+@font-face { font-family: "Marilatte"; src: url("https://designgpt.ai/assets/fonts/curlly/marilatte.script.otf"); }
+@font-face { font-family: "Oswald"; src: url("https://designgpt.ai/assets/fonts/regularfont/Oswald-VariableFont_wght.ttf"); }
+@font-face { font-family: "Poppins"; src: url("https://designgpt.ai/assets/fonts/regularfont/Poppins-Regular.ttf"); }
+@font-face { font-family: "Roboto"; src: url("https://designgpt.ai/assets/fonts/regularfont/Roboto-Regular.ttf"); }
+@font-face { font-family: "Kanit Black"; src: url("https://designgpt.ai/assets/fonts/singletitle/Kanit-Black.ttf"); }
+@font-face { font-family: "Nunito Black"; src: url("https://designgpt.ai/assets/fonts/singletitle/Nunito-Black.ttf"); }
+@font-face { font-family: "Nunito"; src: url("https://designgpt.ai/assets/fonts/singletitle/Nunito-Bold.ttf"); }
+@font-face { font-family: "PT Serif"; src: url("https://designgpt.ai/assets/fonts/singletitle/PTSerif-Bold.ttf"); }
+@font-face { font-family: "Playfair Display Black"; src: url("https://designgpt.ai/assets/fonts/singletitle/PlayfairDisplay-Black.ttf"); }
+@font-face { font-family: "Playfair Display"; src: url("https://designgpt.ai/assets/fonts/singletitle/PlayfairDisplay-Bold.ttf"); }
+@font-face { font-family: "Teko"; src: url("https://designgpt.ai/assets/fonts/singletitle/Teko-Bold.ttf"); }
+@font-face { font-family: "Poppins Thin"; src: url("https://designgpt.ai/assets/fonts/thinfont/Poppins-Thin.ttf"); }
+@font-face { font-family: "Roboto Thin"; src: url("https://designgpt.ai/assets/fonts/thinfont/Roboto-Thin.ttf"); }
+@font-face { font-family: "Ubuntu"; src: url("https://designgpt.ai/assets/fonts/classicbold/Ubuntu-Bold.ttf"); }
+@font-face { font-family: "Fjalla One"; src: url("https://designgpt.ai/assets/fonts/singletitle/FjallaOne-Regular.ttf"); }
+@font-face { font-family: "Roboto Slab"; src: url("https://designgpt.ai/assets/fonts/thinfont/RobotoSlab-VariableFont_wght.ttf"); }
+@font-face { font-family: "Hind"; src: url("https://designgpt.ai/assets/fonts/regularfont/Hind-Regular.ttf"); }
+@font-face { font-family: "Nunito ExtraLight"; src: url("https://designgpt.ai/assets/fonts/regularfont/Nunito-VariableFont_wght.ttf"); }
+@font-face { font-family: "Ubuntu"; src: url("https://designgpt.ai/assets/fonts/singletitle/Ubuntu-Bold.ttf"); }
+@font-face { font-family: "Raleway Thin"; src: url("https://designgpt.ai/assets/fonts/thinfont/Raleway-VariableFont_wght.ttf"); }
+@font-face { font-family: "Rubik Light"; src: url("https://designgpt.ai/assets/fonts/thinfont/Rubik-VariableFont_wght.ttf"); }
+@font-face { font-family: "Noto Sans Black"; src: url("https://designgpt.ai/assets/fonts/classicbold/NotoSans-Black.ttf"); }
+@font-face { font-family: "Noto Sans"; src: url("https://designgpt.ai/assets/fonts/classicbold/NotoSans-Bold.ttf"); }
+@font-face { font-family: "Montserrat Thin"; src: url("https://designgpt.ai/assets/fonts/thinfont/Montserrat-VariableFont_wght.ttf"); }
+@font-face { font-family: "Noto Sans"; src: url("https://designgpt.ai/assets/fonts/regularfont/NotoSans-Regular.ttf"); }
+@font-face { font-family: "Noto Sans"; src: url("https://designgpt.ai/assets/fonts/singletitle/NotoSans-Bold.ttf"); }
+@font-face { font-family: "Open Sans"; src: url("https://designgpt.ai/assets/fonts/thinfont/OpenSans-VariableFont_wdth,wght.ttf"); }
